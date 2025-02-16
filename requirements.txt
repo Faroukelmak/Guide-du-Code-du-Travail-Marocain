@@ -1,0 +1,8 @@
+python-dotenv
+langchain
+langchain-community
+langchain-google-genai
+langchain-mistralai
+mistralai
+faiss-cpu
+pymupdf
